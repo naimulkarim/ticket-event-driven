@@ -1,0 +1,10 @@
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\bin\Debug\netstandard2.0\TicketService.Model.deps.json
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\bin\Debug\netstandard2.0\TicketService.Model.dll
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\bin\Debug\netstandard2.0\TicketService.Model.pdb
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.csproj.AssemblyReference.cache
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.AssemblyInfoInputs.cache
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.AssemblyInfo.cs
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.csproj.CoreCompileInputs.cache
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.dll
+D:\Test\RabbitMQ2\TicketService\TicketService.Model\obj\Debug\netstandard2.0\TicketService.Model.pdb
